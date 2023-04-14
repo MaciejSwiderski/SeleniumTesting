@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="" />
+    <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/macswid/AddRemoveItemBasketTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/macswid/AddRemoveItemBasketTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -25,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2OI1dMAPJrCd4JN6oMiD8IArUnn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,6 +41,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.google.cloudcode.ide_session_index" value="20230414_0000" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../liveproject2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -189,11 +195,17 @@
       <workItem from="1681253006167" duration="19620000" />
       <workItem from="1681370600646" duration="7191000" />
       <workItem from="1681401303352" duration="47000" />
+      <workItem from="1681481032119" duration="1375000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1681253482796">
@@ -232,5 +244,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="178" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-1680.-485.1680.1010@0.0.1920.1040" timestamp="1681254258192" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1681483796001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/-1680.-485.1680.1010@0.0.1920.1040" timestamp="1681483796001" />
   </component>
 </project>
