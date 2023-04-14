@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/liveproject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/liveproject1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/macswid/AddRemoveItemBasketTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/macswid/AddRemoveItemBasketTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/macswid/OrderCompleteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/macswid/OrderCompleteTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.OrderCompleteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.OrderCompleteTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/macswid/AddRemoveItemBasketTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/macswid/AddRemoveItemBasketTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +195,7 @@
       <workItem from="1681253006167" duration="19620000" />
       <workItem from="1681370600646" duration="7191000" />
       <workItem from="1681401303352" duration="47000" />
-      <workItem from="1681481032119" duration="5087000" />
+      <workItem from="1681481032119" duration="6089000" />
     </task>
     <servers />
   </component>
