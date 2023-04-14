@@ -75,7 +75,7 @@ public class AddRemoveItemBasketTest extends Hooks {
         //Failure is order to take a snapshot
         try{
 
-            Assert.assertEquals(cart.getTotalAmount().getText(),"$45.24");
+            Assert.assertEquals(cart.getTotalAmount().getText(),"$45.21");
             ExtentManager.pass("The total amount matches the expected amount.");
         } catch (AssertionError e) {
             Assert.fail("Cart amount did not match the expected amount, it found "+ cart.getTotalAmount().getText()+
