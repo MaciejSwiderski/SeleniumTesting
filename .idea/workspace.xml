@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/macswid/AddRemoveItemBasketTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/macswid/AddRemoveItemBasketTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-04-15_16-34-30.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/ExtentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/macswid/AddRemoveItemBasketTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/macswid/AddRemoveItemBasketTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.OrderCompleteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.OrderCompleteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +214,7 @@
       <workItem from="1681253006167" duration="19620000" />
       <workItem from="1681370600646" duration="7191000" />
       <workItem from="1681401303352" duration="47000" />
-      <workItem from="1681481032119" duration="9640000" />
+      <workItem from="1681481032119" duration="11107000" />
     </task>
     <servers />
   </component>
@@ -223,25 +240,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040/-1680.-485.1680.1010@0.0.1920.1040" timestamp="1681401348852" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1681399983076">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1681569269929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.-485.1680.1010@0.0.1920.1040" timestamp="1681399983076" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.-485.1680.1010@0.0.1920.1040" timestamp="1681569269929" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1681382765050" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1681399983076">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1681569269928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.-485.1680.1010@0.0.1920.1040" timestamp="1681399983076" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.-485.1680.1010@0.0.1920.1040" timestamp="1681569269928" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1681382765050" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1681399983076">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1681569269928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.-485.1680.1010@0.0.1920.1040" timestamp="1681399983076" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.-485.1680.1010@0.0.1920.1040" timestamp="1681569269928" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1681382765050" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1681399983076">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1681569269928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.-485.1680.1010@0.0.1920.1040" timestamp="1681399983076" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.-485.1680.1010@0.0.1920.1040" timestamp="1681569269928" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1681382765050" />
     <state x="490" y="178" key="Maven.ArtifactSearchDialog" timestamp="1681254258192">
       <screen x="0" y="0" width="1920" height="1040" />
