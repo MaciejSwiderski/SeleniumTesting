@@ -30,7 +30,6 @@ public class ExtentManager extends BasePage {
         extentReport = new ExtentReports();
         ExtentSparkReporter spark = new ExtentSparkReporter(System.getProperty("user.dir") + "/report/"+extentReportsPrefix_Name(testName) + ".html");
         extentReport.attachReporter(spark);
-
         extentReport.setSystemInfo("Tester","Maciej Swiderski");
         spark.config().setReportName("Regression Test");
         spark.config().setDocumentTitle("Test Results");
