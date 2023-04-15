@@ -71,7 +71,6 @@ public class AddRemoveItemBasketTest extends Hooks {
         System.out.println(cart.getTotalAmount().getText());
 
 //        Assert.assertEquals(cart.getTotalAmount().getText(),"$45.24");
-
         //Failure is order to take a snapshot
         try{
             Assert.assertEquals(cart.getTotalAmount().getText(),"$45.24");
