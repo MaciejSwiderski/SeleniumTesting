@@ -48,7 +48,6 @@ public class ExtentManager extends BasePage {
     public static void flushReport(){
         extentReport.flush();
     }
-
     public synchronized static ExtentTest getTest(){
         return extentTest.get();
     }
