@@ -34,7 +34,6 @@ public class ExtentManager extends BasePage {
         spark.config().setReportName("Regression Test");
         spark.config().setDocumentTitle("Test Results");
         spark.config().setTheme(Theme.DARK);
-
         return extentReport;
     }
 
