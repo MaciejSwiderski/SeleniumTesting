@@ -67,7 +67,6 @@ public class AddRemoveItemBasketTest extends Hooks {
         cart.getDeleteItemTwo().click();
         //in order to wait till second item was deleted and no longer visible
         waitForElementInvisible(cart.getDeleteItemTwo(),Duration.ofSeconds(10));
-
         System.out.println(cart.getTotalAmount().getText());
 
 //        Assert.assertEquals(cart.getTotalAmount().getText(),"$45.24");
