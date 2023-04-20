@@ -18,6 +18,7 @@ import pageObject.*;
 import java.io.IOException;
 import java.time.Duration;
 
+//we need to define listener
 @Listeners(pageObject.Listeners.class)
 
 public class AddRemoveItemBasketTest extends Hooks {
@@ -67,7 +68,7 @@ public class AddRemoveItemBasketTest extends Hooks {
         cart.getDeleteItemTwo().click();
         //in order to wait till second item was deleted and no longer visible
         waitForElementInvisible(cart.getDeleteItemTwo(),Duration.ofSeconds(10));
-        System.out.println(cart.getTotalAmount().getText());
+        //System.out.println(cart.getTotalAmount().getText());
 
 //        Assert.assertEquals(cart.getTotalAmount().getText(),"$45.24");
         //Failure is order to take a snapshot
