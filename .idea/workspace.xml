@@ -5,120 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_5_0_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_82.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_auto_common_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_netty_netty_reactive_streams_2_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dev_failsafe_failsafe_3_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_90_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_90_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_90_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_60_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_90_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_90_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_60_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_90_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_90_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_90_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_kqueue_4_1_90_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_90_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_60_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_4_1_90_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_osx_x86_64_4_1_60_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_90_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_24_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_events_1_24_0_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_logs_1_24_0_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_24_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_24_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_24_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_24_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_24_0_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_24_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_24_0_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_24_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_24_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_semconv_1_24_0_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_ous_jtoml_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava3_rxjava_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_14_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_asynchttpclient_async_http_client_2_12_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_asynchttpclient_async_http_client_netty_utils_2_12_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v109_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v110_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v111_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-04-21_00-30-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-04-26_17-36-42.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-04-26_17-37-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-04-27_16-16-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-04-27_17-45-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-04-27_17-48-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-17_16-08-56.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-17_16-11-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-17_16-11-49.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-17_17-11-32.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-17_17-12-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-17_17-20-59.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-17_17-26-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liveproject1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/macswid/AddRemoveItemBasketTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/macswid/AddRemoveItemBasketTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/macswid/OrderCompleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/macswid/OrderCompleteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/ExtentManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/Hooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/WebDriverInstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/WebDriverInstance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/macswid/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/macswid/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/Listeners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/Listeners.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/OrderFormDelivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/OrderFormDelivery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/OrderFormPayment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/OrderFormPayment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/OrderFormPersInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/OrderFormPersInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/OrderFormShippingMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/OrderFormShippingMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/ShopContentPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/ShopContentPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/ShopHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/ShopHomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/ShopProductPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/ShopProductPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pageObject/ShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/ShoppingCart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/macswid/AddRemoveItemBasketTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/macswid/AddRemoveItemBasketTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/macswid/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/macswid/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/macswid/OrderCompleteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/macswid/OrderCompleteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/liveproject1-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-12 01-16-45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-12 19-41-37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-13 01-01-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-13 01-04-34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-13 01-10-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-13 01-11-36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-13_01-24-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-13_09-30-35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-13_09-38-18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-13_09-53-34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-13_09-57-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-13_12-46-21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/2023-04-14_22-49-33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.macswid.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.macswid.AppTest.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/liveproject1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/liveproject1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/liveproject1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/liveproject1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.OrderCompleteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.OrderCompleteTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,20 +95,24 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230420_0008",
-    "last_opened_file_path": "C:/Users/user/Downloads/aqua-plugin/lib/aqua-plugin.jar",
+    "com.google.cloudcode.ide_session_index": "20230617_0007",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/liveproject1/src/main/java/drivers",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.sourceCode.CSV/TSV/PSV",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.language",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\IdeaProjects" />
       <recent name="C:\Users\user\IdeaProjects\liveproject1\src\main\java\drivers" />
+      <recent name="C:\Users\user\IdeaProjects" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\liveproject1\src\main\java" />
@@ -295,9 +240,9 @@
       <list>
         <item itemvalue="TestNG.C:/Users/user/IdeaProjects/liveproject1/testng.xml" />
         <item itemvalue="TestNG.AddRemoveItemBasketTest.addRemoveItem" />
-        <item itemvalue="TestNG.AddRemoveItemBasketTest" />
         <item itemvalue="TestNG.OrderCompleteTest.endToEndTest" />
         <item itemvalue="TestNG.OrderCompleteTest" />
+        <item itemvalue="TestNG.AddRemoveItemBasketTest" />
       </list>
     </recent_temporary>
   </component>
@@ -323,8 +268,30 @@
       <workItem from="1681481032119" duration="25086000" />
       <workItem from="1682016650120" duration="1113000" />
       <workItem from="1682017780998" duration="674000" />
-      <workItem from="1682021565549" duration="2988000" />
+      <workItem from="1682021565549" duration="5844000" />
+      <workItem from="1682030719915" duration="69000" />
+      <workItem from="1682082227879" duration="821000" />
+      <workItem from="1682083075488" duration="42000" />
+      <workItem from="1682083136368" duration="599000" />
+      <workItem from="1682089573218" duration="1797000" />
+      <workItem from="1682278666364" duration="663000" />
+      <workItem from="1682360332687" duration="11000" />
+      <workItem from="1682523313167" duration="1365000" />
+      <workItem from="1682604944088" duration="1104000" />
+      <workItem from="1682609249012" duration="5377000" />
+      <workItem from="1682882237139" duration="8000" />
+      <workItem from="1686596225906" duration="2310000" />
+      <workItem from="1686768216523" duration="599000" />
+      <workItem from="1686776342006" duration="5800000" />
     </task>
+    <task id="LOCAL-00001" summary="new chromedriver">
+      <created>1687021408050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687021408051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,5 +313,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="new chromedriver" />
+    <option name="LAST_COMMIT_MESSAGE" value="new chromedriver" />
   </component>
 </project>

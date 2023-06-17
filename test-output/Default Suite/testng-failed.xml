@@ -5,9 +5,9 @@
     <classes>
       <class name="com.macswid.AddRemoveItemBasketTest">
         <methods>
+          <include name="addRemoveItem"/>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="addRemoveItem"/>
         </methods>
       </class> <!-- com.macswid.AddRemoveItemBasketTest -->
     </classes>

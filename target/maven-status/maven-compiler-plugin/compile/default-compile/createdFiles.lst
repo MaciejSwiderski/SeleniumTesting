@@ -1,1 +1,15 @@
 com\macswid\App.class
+pageObject\OrderFormShippingMethod.class
+base\Hooks.class
+pageObject\ShopHomePage.class
+base\ExtentManager.class
+pageObject\ShopProductPage.class
+base\BasePage.class
+pageObject\OrderFormPayment.class
+pageObject\ShoppingCart.class
+pageObject\OrderFormDelivery.class
+base\WebDriverInstance.class
+pageObject\OrderFormPersInfo.class
+pageObject\Listeners.class
+pageObject\ShopContentPanel.class
+pageObject\HomePage.class
