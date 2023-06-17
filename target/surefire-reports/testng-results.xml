@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T17:48:09 CEST" name="All Test Suite" finished-at="2023-04-27T17:48:32 CEST" duration-ms="22639">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T17:48:09 CEST" name="test1" finished-at="2023-04-27T17:48:27 CEST" duration-ms="17897">
+      <class name="com.macswid.AddRemoveItemBasketTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.macswid.AddRemoveItemBasketTest@10e41621]" started-at="2023-04-27T17:48:09 CEST" name="setup" finished-at="2023-04-27T17:48:12 CEST" duration-ms="2853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addRemoveItem()[pri:0, instance:com.macswid.AddRemoveItemBasketTest@10e41621]" started-at="2023-04-27T17:48:12 CEST" name="addRemoveItem" finished-at="2023-04-27T17:48:26 CEST" duration-ms="14189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRemoveItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.macswid.AddRemoveItemBasketTest@10e41621]" started-at="2023-04-27T17:48:26 CEST" name="tearDown" finished-at="2023-04-27T17:48:27 CEST" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.macswid.AddRemoveItemBasketTest -->
+    </test> <!-- test1 -->
+    <test started-at="2023-04-27T17:48:09 CEST" name="Test2" finished-at="2023-04-27T17:48:32 CEST" duration-ms="22639">
+      <class name="com.macswid.OrderCompleteTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.macswid.OrderCompleteTest@16ec5519]" started-at="2023-04-27T17:48:09 CEST" name="setup" finished-at="2023-04-27T17:48:12 CEST" duration-ms="2766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="endToEndTest()[pri:0, instance:com.macswid.OrderCompleteTest@16ec5519]" started-at="2023-04-27T17:48:12 CEST" name="endToEndTest" finished-at="2023-04-27T17:48:31 CEST" duration-ms="19021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToEndTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.macswid.OrderCompleteTest@16ec5519]" started-at="2023-04-27T17:48:31 CEST" name="tearDown" finished-at="2023-04-27T17:48:32 CEST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.macswid.OrderCompleteTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
