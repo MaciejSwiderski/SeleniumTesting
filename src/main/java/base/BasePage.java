@@ -5,10 +5,6 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -38,8 +34,6 @@ public class BasePage {
     }
 
     public static WebDriver getDriver() throws IOException, InterruptedException {
-
-
         return WebDriverInstance.getDriver();
     }
 
@@ -53,6 +47,7 @@ public class BasePage {
     public  static String takeSnapShot(String name) throws IOException, InterruptedException {
         File srcFile = ((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.FILE);
         String destFile = System.getProperty("user.dir") + "\\target\\screenshots\\" + timeStamp() + ".png";
+        //String destFile = System.getProperty("user.dir") + "\\src\\main\\resources\\screenshots\\" + timeStamp() + ".png";
         screenShotDestinationPath = destFile;
         //file:///C:/Users/user/IdeaProjects/liveproject1/target/screenshots/
         System.out.println(screenShotDestinationPath+" tutaj:");

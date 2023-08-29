@@ -13,6 +13,8 @@ import java.util.Properties;
 
 public class WebDriverInstance {
 
+
+    // here we are initialising a driver but as thread local
     public static ThreadLocal<WebDriver> driver  = new ThreadLocal<>();
 
     public static WebDriver getDriver(){

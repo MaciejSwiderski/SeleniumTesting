@@ -56,7 +56,8 @@ public class ShoppingCart extends BasePage {
         return driver.findElement(deleteItemTwo);
     }
 
-    public WebElement getTotalAmount() {
+    public WebElement getTotalAmount() throws IOException, InterruptedException {
+        this.driver = getDriver();
         return driver.findElement(totalValue);
     }
 

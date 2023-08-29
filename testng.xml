@@ -13,7 +13,8 @@
     <test verbose="2" preserve-order="true" name="Test2">
         <classes>
             <class name="com.macswid.OrderCompleteTest">
-                <methods><include name="endToEndTest"/>
+                <methods>
+                    <include name="endToEndTest"/>
                 </methods>
             </class>
         </classes>

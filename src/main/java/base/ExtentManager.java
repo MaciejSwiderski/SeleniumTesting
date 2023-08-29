@@ -43,6 +43,7 @@ public class ExtentManager extends BasePage {
         return extentReportPrefix;
     }
 
+    //it generates report
     public static void flushReport(){
         extentReport.flush();
     }
