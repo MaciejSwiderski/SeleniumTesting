@@ -4,62 +4,31 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-20_19-19-18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-20_19-48-14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-20_19-48-55.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-20_19-49-27.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-20_19-50-03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-20_20-04-19.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-20_22-25-40.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-20_23-09-51.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_18-21-24.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_18-57-15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_19-04-14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_19-08-05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_19-08-35.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_19-10-18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_19-11-52.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_19-13-56.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_22-15-59.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_22-48-31.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_22-49-11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_22-51-19.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_22-55-13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_22-57-44.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-06-21_22-59-26.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-08-22_21-02-00.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-08-22_21-09-15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-08-22_22-02-31.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-08-22_23-44-18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="new Pom">
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-09-11_22-39-47.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-18-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-18-29.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-18-52.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-24-45.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-25-19.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/base/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ExtentManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/base/WebDriverInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/WebDriverInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/drivers/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/ExtentManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/WebDriverInstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/WebDriverInstance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/ShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/ShoppingCart.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/liveproject1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/liveproject1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/liveproject1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/liveproject1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.OrderCompleteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.OrderCompleteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/Test2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/Test2.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/test1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/test1.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +63,7 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230828_0003",
+    "com.google.cloudcode.ide_session_index": "20231018_0003",
     "last_opened_file_path": "C:/Users/user/IdeaProjects/liveproject1/src/main/java/drivers",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -104,7 +73,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.language",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -293,7 +262,15 @@
       <workItem from="1692734491014" duration="1771000" />
       <workItem from="1692739606450" duration="12000" />
       <workItem from="1692739722613" duration="160000" />
-      <workItem from="1692740504463" duration="14250000" />
+      <workItem from="1692740504463" duration="19335000" />
+      <workItem from="1693852664987" duration="1391000" />
+      <workItem from="1694376821801" duration="3972000" />
+      <workItem from="1694723687903" duration="666000" />
+      <workItem from="1694762088523" duration="7242000" />
+      <workItem from="1695063058481" duration="4043000" />
+      <workItem from="1695327638481" duration="673000" />
+      <workItem from="1697653057588" duration="919000" />
+      <workItem from="1697654020793" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="new chromedriver">
       <created>1687021408050</created>
@@ -316,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687364700956</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new Pom">
+      <option name="closed" value="true" />
+      <created>1693326575369</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693326575369</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
