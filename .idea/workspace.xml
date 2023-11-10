@@ -4,20 +4,17 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="new Pom">
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-09-11_22-39-47.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-18-05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-18-29.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-18-52.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-24-45.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-25-19.html" afterDir="false" />
+    <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-32-57.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-35-38.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-11-10_15-17-04.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/drivers/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" afterDir="false" />
@@ -26,8 +23,7 @@
       <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/test1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/test1.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +59,7 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20231018_0003",
+    "com.google.cloudcode.ide_session_index": "20231109_0000",
     "last_opened_file_path": "C:/Users/user/IdeaProjects/liveproject1/src/main/java/drivers",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -270,7 +266,10 @@
       <workItem from="1695063058481" duration="4043000" />
       <workItem from="1695327638481" duration="673000" />
       <workItem from="1697653057588" duration="919000" />
-      <workItem from="1697654020793" duration="318000" />
+      <workItem from="1697654020793" duration="580000" />
+      <workItem from="1699469105965" duration="474000" />
+      <workItem from="1699469619702" duration="1320000" />
+      <workItem from="1699569661364" duration="1306000" />
     </task>
     <task id="LOCAL-00001" summary="new chromedriver">
       <created>1687021408050</created>
@@ -301,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693326575369</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new Pom">
+      <option name="closed" value="true" />
+      <created>1697654365789</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697654365789</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
