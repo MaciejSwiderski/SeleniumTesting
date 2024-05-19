@@ -15,8 +15,8 @@ public class OrderFormPersInfo extends BasePage {
     By genderMrs = By.cssSelector("label:nth-of-type(2) > .custom-radio > input[name='id_gender']");
     By firstNameField = By.cssSelector("input[name='firstname']");
     By lastNameField = By.cssSelector("input[name='lastname']");
-    By emailField = By.cssSelector("form#customer-form > section input[name='email']");
-    By passwordField = By.cssSelector("form#customer-form > section input[name='password']");
+    By emailField = By.cssSelector("input#field-email");
+    By passwordField = By.cssSelector("input#field-password");
     By birthDateField = By.cssSelector("input[name='birthday']");
     By receiveOffersCheckbox = By.cssSelector("div:nth-of-type(7)  span > label > span");
     By newsletterCheckbox = By.cssSelector("div:nth-of-type(8)  span > label > span");

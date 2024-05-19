@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-32-57.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-10-18_20-35-38.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2023-11-10_15-17-04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/OrderFormPersInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/OrderFormPersInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/OrderFormPersInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/OrderFormPersInfo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" afterDir="false" />
@@ -19,10 +19,8 @@
       <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.OrderCompleteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.OrderCompleteTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/Test2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/Test2.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/test1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/test1.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
@@ -47,6 +45,10 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2OI1dMAPJrCd4JN6oMiD8IArUnn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -57,9 +59,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/user/IdeaProjects/liveproject1/testng.xml.executor": "Run",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20231109_0000",
+    "com.google.cloudcode.ide_session_index": "20240519_0001",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/IdeaProjects/liveproject1/src/main/java/drivers",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -79,6 +84,7 @@
       <recent name="C:\Users\user\IdeaProjects" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\liveproject1\src\main\java\drivers" />
       <recent name="C:\Users\user\IdeaProjects\liveproject1\src\main\resources\screenshots" />
       <recent name="C:\Users\user\IdeaProjects\liveproject1\src\main\java" />
       <recent name="C:\Users\user\IdeaProjects\liveproject1\src\main" />
@@ -214,6 +220,13 @@
   <component name="SeleniumInternalSettingsState">
     <option name="lastUrl" value="https://poczta.wp.pl/login/login.html" />
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-5720f15e" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -269,7 +282,16 @@
       <workItem from="1697654020793" duration="580000" />
       <workItem from="1699469105965" duration="474000" />
       <workItem from="1699469619702" duration="1320000" />
-      <workItem from="1699569661364" duration="1306000" />
+      <workItem from="1699569661364" duration="4711000" />
+      <workItem from="1699826453474" duration="613000" />
+      <workItem from="1700434356372" duration="124000" />
+      <workItem from="1700434488302" duration="8969000" />
+      <workItem from="1704465326953" duration="22000" />
+      <workItem from="1704469478012" duration="17000" />
+      <workItem from="1705781731692" duration="2169000" />
+      <workItem from="1705963989313" duration="501000" />
+      <workItem from="1716125712580" duration="58000" />
+      <workItem from="1716134971729" duration="1624000" />
     </task>
     <task id="LOCAL-00001" summary="new chromedriver">
       <created>1687021408050</created>
@@ -308,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697654365789</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new Pom">
+      <option name="closed" value="true" />
+      <created>1699626322895</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699626322895</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
