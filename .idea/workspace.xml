@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="new data">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/drivers/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/macswid/OrderCompleteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/macswid/OrderCompleteTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.AddRemoveItemBasketTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.OrderCompleteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.macswid.OrderCompleteTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,7 +278,7 @@
       <workItem from="1736593603133" duration="55000" />
       <workItem from="1736715071026" duration="4999000" />
       <workItem from="1736928819941" duration="1216000" />
-      <workItem from="1743798109360" duration="2775000" />
+      <workItem from="1743798109360" duration="3024000" />
     </task>
     <task id="LOCAL-00001" summary="new chromedriver">
       <created>1687021408050</created>
@@ -381,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743799317787</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new data">
+      <option name="closed" value="true" />
+      <created>1743801006172</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801006172</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
