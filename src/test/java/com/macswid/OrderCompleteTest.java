@@ -87,7 +87,6 @@ public class OrderCompleteTest extends Hooks {
         orderDelivery.getContinueBtn().click();
         ExtentManager.pass("Have successfully entered delivery info");
         //Thread.sleep(3000);
-
         // creating an object of the shipping method page
         OrderFormShippingMethod shipMethod = new OrderFormShippingMethod();
         shipMethod.getDeliveryMsgTextbox().sendKeys("If I am not in, please leave my delivery on my porch");
