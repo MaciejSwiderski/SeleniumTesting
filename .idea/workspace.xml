@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e03d9d11-538e-4c6c-a8ae-90fd366144bd" name="Default Changelist" comment="new data">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test Results - C__Users_user_IdeaProjects_liveproject1_testng_xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2024-11-20_13-06-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/Live Project 1_2025-01-09_14-33-09.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/drivers/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/OrderFormPersInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/OrderFormPersInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/OrderFormPersInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/OrderFormPersInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/macswid/OrderCompleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/macswid/OrderCompleteTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/Test2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/test1.html" afterDir="false" />
@@ -29,6 +31,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -57,27 +60,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.C:/Users/user/IdeaProjects/liveproject1/testng.xml.executor": "Run",
-    "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20240519_0001",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/liveproject1/src/main/java/drivers",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.AppTest.shouldAnswerWithTrue.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.AddRemoveItemBasketTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/user/IdeaProjects/liveproject1/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.OrderCompleteTest.endToEndTest.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240528_0000&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/liveproject1/src/main/java/drivers&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\liveproject1\src\main\java\drivers" />
@@ -91,6 +97,22 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.C:/Users/user/IdeaProjects/liveproject1/testng.xml">
+    <configuration name="AppTest.shouldAnswerWithTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liveproject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.macswid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.macswid" />
+      <option name="MAIN_CLASS_NAME" value="com.macswid.AppTest" />
+      <option name="METHOD_NAME" value="shouldAnswerWithTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AddRemoveItemBasketTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="liveproject1" />
       <extension name="coverage">
@@ -155,33 +177,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderCompleteTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="liveproject1" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.macswid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.macswid" />
-      <option name="MAIN_CLASS_NAME" value="com.macswid.OrderCompleteTest" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="true" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OrderCompleteTest.endToEndTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="liveproject1" />
       <extension name="coverage">
@@ -201,19 +196,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.AppTest.shouldAnswerWithTrue" />
       <item itemvalue="TestNG.AddRemoveItemBasketTest.addRemoveItem" />
       <item itemvalue="TestNG.C:/Users/user/IdeaProjects/liveproject1/testng.xml" />
-      <item itemvalue="TestNG.OrderCompleteTest" />
       <item itemvalue="TestNG.OrderCompleteTest.endToEndTest" />
       <item itemvalue="TestNG.AddRemoveItemBasketTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/user/IdeaProjects/liveproject1/testng.xml" />
-        <item itemvalue="TestNG.AddRemoveItemBasketTest.addRemoveItem" />
-        <item itemvalue="TestNG.AddRemoveItemBasketTest" />
-        <item itemvalue="TestNG.OrderCompleteTest" />
         <item itemvalue="TestNG.OrderCompleteTest.endToEndTest" />
+        <item itemvalue="JUnit.AppTest.shouldAnswerWithTrue" />
+        <item itemvalue="TestNG.AddRemoveItemBasketTest" />
+        <item itemvalue="TestNG.AddRemoveItemBasketTest.addRemoveItem" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +286,18 @@
       <workItem from="1705781731692" duration="2169000" />
       <workItem from="1705963989313" duration="501000" />
       <workItem from="1716125712580" duration="58000" />
-      <workItem from="1716134971729" duration="1624000" />
+      <workItem from="1716134971729" duration="5673000" />
+      <workItem from="1716153623933" duration="14000" />
+      <workItem from="1716327875860" duration="147000" />
+      <workItem from="1716328308331" duration="233000" />
+      <workItem from="1716813101078" duration="872000" />
+      <workItem from="1732104354909" duration="2697000" />
+      <workItem from="1735938570464" duration="6050000" />
+      <workItem from="1736429167920" duration="1027000" />
+      <workItem from="1736593603133" duration="55000" />
+      <workItem from="1736715071026" duration="4999000" />
+      <workItem from="1736928819941" duration="1216000" />
+      <workItem from="1743798109360" duration="1030000" />
     </task>
     <task id="LOCAL-00001" summary="new chromedriver">
       <created>1687021408050</created>
@@ -338,18 +344,69 @@
       <option name="project" value="LOCAL" />
       <updated>1699626322895</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new Pom">
+      <option name="closed" value="true" />
+      <created>1716136613455</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716136613455</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new data">
+      <option name="closed" value="true" />
+      <created>1716136703359</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716136703359</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new data">
+      <option name="closed" value="true" />
+      <created>1716136724285</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716136724285</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -362,6 +419,7 @@
     </ignored-roots>
     <MESSAGE value="new chromedriver" />
     <MESSAGE value="new Pom" />
-    <option name="LAST_COMMIT_MESSAGE" value="new Pom" />
+    <MESSAGE value="new data" />
+    <option name="LAST_COMMIT_MESSAGE" value="new data" />
   </component>
 </project>

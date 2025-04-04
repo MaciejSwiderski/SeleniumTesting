@@ -1,0 +1,42 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Logs
+*.log
+
+# Build results
+/build/
+target/
+bin/
+
+# TestNG output and reports
+test-output/
+report/
+*.html
+*.xml
+
+# JUnit reports
+surefire-reports/
+jacoco.exec
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.local
+
+# Maven wrapper
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Ignore all .exe files...
+*.exe
+
+# ...but allow specific WebDriver executables
+!src/main/java/drivers/chromedriver.exe
+!src/main/java/drivers/msedgedriver.exe
+!src/main/java/drivers/geckodriver.exe
